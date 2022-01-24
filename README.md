@@ -12,3 +12,11 @@ The code uses the following libraries:
 * Jest
 * Axios
 
+Some other libraries were just installed:
+
+* Express
+* Vue
+* Json
+* Vue-fusioncharts
+* fusioncharts
+
