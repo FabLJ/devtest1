@@ -9,6 +9,6 @@ I would create a basic UI using Vue.js, but I haven't much time to learn it.
 
 The code uses the following libraries:
 
- -> Jest
- -> Axios
+* Jest
+* Axios
 
