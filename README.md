@@ -1,11 +1,10 @@
-# devtest1
+#devtest1 Get cryptocurrencies info
 
 
-# First aplication
+Basic code which gets info about cryptocurrencies from coinbase API using Node js. 
+It was made to run once, not real-time refresh response. Jest was used to test functions, but I think the use can be improved. It's my first use of Jest. 
+I was going to create a basic UI using Vue.js, but I had not much time to learn it. My front-end experience is not much, but I can learn to use the tools while developing a project. Actually, I did all the frontend of my work of conclusion of the graduation learning react js and developing.
 
-Basic code which gets info about cryptocurrencies from coinbase api using Node js. It was made to run once, not real time refresh response.
-Jest was use to test function, the use could be improved tought. Its my first use of Jest.
-I would create a basic UI using Vue.js, but I haven't much time to learn it.
 
 The code uses the following libraries:
 
